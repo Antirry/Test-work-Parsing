@@ -10,3 +10,5 @@
     3. Промежуток между постами
 
 В качестве примера я выбрал стримера [HellYeahPlay](https://www.twitch.tv/hellyeahplay)
+
+Версия драйвера - [ChromeDriver 114.0.5735.90](https://chromedriver.chromium.org/downloads)
